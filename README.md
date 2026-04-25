@@ -102,4 +102,4 @@ Example output:
 
 ## License
 
-**GPL-3.0**
+**PolyForm-Noncommercial-1.0.0**

